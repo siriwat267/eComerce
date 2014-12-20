@@ -1,6 +1,6 @@
 eComerce
 ========
-Welcome to e-Commerce Template
-ระบบนี้จัดทำเพื่อให้ต่อยอดได้สำหรับการทำระบบ e-Commerce! 
+<h4>Welcome to e-Commerce Template</h4><br />
+ระบบนี้จัดทำเพื่อให้ต่อยอดได้สำหรับการทำระบบ e-Commerce! <br />
 จัดทำระบบโดย @Aom Siriwat
 ( fb.com/aom.siriwt )
